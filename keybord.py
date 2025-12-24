@@ -211,16 +211,4 @@ get_cur_pos()
 count=20
 for i in range(0,count):
     run1()
-    
-'''
-count=1
-SLEEPTIME=360
-while True:
-    key_press("VK_ALT")
-    print(str(count),end=',')
-    sys.stdout.flush()
-    if count % (3600/SLEEPTIME) == 0:
-        print("1HOUR")    
-    count+=1
-    time.sleep(SLEEPTIME)    
-'''
+   
