@@ -208,7 +208,7 @@ def run1():
 
 
 get_cur_pos()
-count=20
+count=10
 for i in range(0,count):
     run1()
    
