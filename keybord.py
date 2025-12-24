@@ -207,7 +207,7 @@ def run1():
     time.sleep(SLEEPTIME)
 
 
-get_cur_pos()
+#get_cur_pos()
 count=20
 for i in range(0,count):
     run1()
