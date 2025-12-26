@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<fundData>
+  
+
+  <dl class="dataItem01">
+    <dt>
+      <p>
+        <span class="ui-color-blue">
+          <span class="sp01">
+            <a href="http://fundf10.eastmoney.com/jjjz_040046.html">单位净值</a>
+          </span>
+           (
+        </span>
+        2025-12-25)
+      </p>
+    </dt>
+    <dd class="dataNums">
+      <span class="ui-font-large ui-color-green ui-num">7.4543</span>
+      <span class="ui-font-middle ui-color-green ui-num">-0.10%</span>
+    </dd>
+    <dd>
+      <span>近1月：</span>
+      <span class="ui-font-middle ui-color-red ui-num">1.83%</span>
+    </dd>
+    <dd>
+      <span>近1年：</span>
+      <span class="ui-font-middle ui-color-red ui-num">11.75%</span>
+    </dd>
+  </dl>
+  <span class="dataOfFund-line"/>
+  <dl class="dataItem02">
+    <dt>
+      <p>
+        <span class="ui-color-blue">
+          <span class="sp01">
+            <a href="http://fundf10.eastmoney.com/jjjz_040046.html">累计净值</a>
+          </span>
+        </span>
+      </p>
+    </dt>
+    <dd class="dataNums">
+      <span class="ui-font-large ui-color-red ui-num">7.4543</span>
+    </dd>
+    <dd>
+      <span>近3月：</span>
+      <span class="ui-font-middle ui-color-red ui-num">3.57%</span>
+    </dd>
+    <dd>
+      <span>近3年：</span>
+      <span class="ui-font-middle ui-color-red ui-num">119.70%</span>
+    </dd>
+  </dl>
+  <dl class="dataItem03">
+    <dt>
+      <p>
+        <span class="ui-color-blue">
+          <span class="sp01" style="display:inline-block;"/>
+        </span>
+      </p>
+    </dt>
+    <dd class="dataNums">
+      <span class="ui-font-large ui-color-red ui-num"/>
+    </dd>
+    <dd>
+      <span>近6月：</span>
+      <span class="ui-font-middle ui-color-red ui-num">12.52%</span>
+    </dd>
+    <dd>
+      <span>成立来：</span>
+      <span class="ui-font-middle ui-color-red ui-num">645.43%</span>
+    </dd>
+  </dl>
+  
+
+</fundData>

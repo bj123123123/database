@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<fundData>
+  
+
+  <dl class="dataItem01">
+    <dt>
+      <p>
+        <span>
+          <span class="sp01">净值估算</span>
+        </span>
+        <span id="gz_gztime">(25-12-26 15:00)</span>
+        <span class="infoTips">
+          <span class="tipsBubble" style="display: none;">净值估算每个交易日9：30-15：00盘中实时更新（QDII基金为海外交易时段）。</span>
+        </span>
+      </p>
+    </dt>
+    <dd class="dataNums">
+      <dl class="floatleft">
+        <span class="ui-font-large  ui-num" id="gz_gsz">--</span>
+      </dl>
+      <dl id="gz_icon" class=""/>
+      <dl class="floatleft fundZdf">
+        <span class="ui-font-middle  ui-num" id="gz_gszze"/>
+        <span class="ui-font-middle  ui-num" id="gz_gszzl"/>
+      </dl>
+    </dd>
+    <dd>
+      <span>近1月：</span>
+      <span class="ui-font-middle ui-color-red ui-num">0.67%</span>
+    </dd>
+    <dd>
+      <span>近1年：</span>
+      <span class="ui-font-middle ui-color-red ui-num">1.24%</span>
+    </dd>
+  </dl>
+  <span class="dataOfFund-line"/>
+  <dl class="dataItem02">
+    <dt>
+      <p>
+        <span class="ui-color-blue">
+          <span class="sp01">
+            <a href="http://fundf10.eastmoney.com/jjjz_017481.html">单位净值</a>
+          </span>
+           (
+        </span>
+        2025-12-25)
+      </p>
+    </dt>
+    <dd class="dataNums">
+      <span class="ui-font-large ui-color-red ui-num">1.1452</span>
+      <span class="ui-font-middle ui-color-red ui-num">0.05%</span>
+    </dd>
+    <dd>
+      <span>近3月：</span>
+      <span class="ui-font-middle ui-color-red ui-num">3.08%</span>
+    </dd>
+    <dd>
+      <span>近3年：</span>
+      <span class="ui-font-middle  ui-num">--</span>
+    </dd>
+  </dl>
+  <span class="dataOfFund-line"/>
+  <dl class="dataItem03">
+    <dt>
+      <p>
+        <span class="ui-color-blue">
+          <span class="sp01">
+            <a href="http://fundf10.eastmoney.com/jjjz_017481.html">累计净值</a>
+          </span>
+        </span>
+      </p>
+    </dt>
+    <dd class="dataNums">
+      <span class="ui-font-large ui-color-red ui-num">1.1452</span>
+    </dd>
+    <dd>
+      <span>近6月：</span>
+      <span class="ui-font-middle ui-color-red ui-num">4.87%</span>
+    </dd>
+    <dd>
+      <span>成立来：</span>
+      <span class="ui-font-middle ui-color-red ui-num">14.51%</span>
+    </dd>
+  </dl>
+  
+
+</fundData>
